@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Aniyomi: Anime-Sama",
+    "pkg": "eu.kanade.tachiyomi.animeextension.all.animesama",
+    "apk": "aniyomi-all.animesama-v1.0.apk",
+    "lang": "fr",
+    "code": 8,
+    "version": "1.0",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Anime-Sama",
+        "lang": "fr",
+        "id": "1234567890123456789",
+        "baseUrl": "https://anime-sama.fr"
+      }
+    ]
+  }
+]
